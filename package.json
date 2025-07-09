@@ -1,0 +1,27 @@
+{
+  "name": "abdul-azeez-muhammad-|-3d-portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "three": "0.164.1",
+    "@react-three/fiber": "8.16.2",
+    "@react-three/drei": "9.105.4",
+    "@react-three/postprocessing": "2.16.2",
+    "react-dom": "18.2.0",
+    "maath": "0.10.7",
+    "framer-motion": "11.2.10",
+    "@google/genai": "0.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
