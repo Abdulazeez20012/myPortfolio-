@@ -34,7 +34,7 @@ const About: React.FC = () => {
                     className="flex-shrink-0"
                 >
                 <img 
-                    src="https://picsum.photos/seed/profile/300/300" 
+                    src="https://res.cloudinary.com/dwiewdn6f/image/upload/v1752083091/WhatsApp_Image_2025-05-29_at_17.32.36_f31078a6_bvbakb.jpg" 
                     alt="Abdul Azeez Muhammad" 
                     className="w-48 h-48 sm:w-56 sm:h-56 rounded-full object-cover border-4 border-cyan-400 shadow-lg shadow-cyan-500/20"
                 />
