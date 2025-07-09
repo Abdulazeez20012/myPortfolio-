@@ -19,7 +19,7 @@ export const navLinks: NavLink[] = [
   },
 ];
 
-const placeholderVideo = 'https://assets.mixkit.co/videos/preview/mixkit-animation-of-a-bouncing-ball-44244-large.mp4';
+const placeholderVideo = 'https://res.cloudinary.com/dwiewdn6f/video/upload/v1752085187/101347-video-720_ltjzcf.mp4';
 
 export const projects: Project[] = [
   {
