@@ -88,10 +88,10 @@ export const projects: Project[] = [
         color: "text-pink-500",
       },
     ],
-    image: "https://picsum.photos/seed/aiprompt/500/300",
+    image: "https://picsum.photos/seed/ai/500/300",
     video_snippet_url: placeholderVideo,
     source_code_link: "https://github.com/Abdulazeez20012/PromptVerse",
-    live_demo_link: "#",
+    live_demo_link: "https://promptverse-k3ps.onrender.com",
   },
 ];
 
