@@ -67,7 +67,8 @@ export const projects: Project[] = [
     ],
     image: "https://picsum.photos/seed/ecommerce/500/300",
     video_snippet_url: placeholderVideo,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Abdulazeez20012/luxelane-ecommerce-app.git",
+    live_demo_link: "https://luxelane-ecommerce-app.onrender.com",
   },
   {
     id: "project-3",
