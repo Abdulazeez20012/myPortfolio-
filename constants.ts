@@ -61,7 +61,7 @@ export const projects: Project[] = [
         color: "text-green-500",
       },
       {
-        name: "stripe",
+        name: "mongodb",
         color: "text-pink-500",
       },
     ],
@@ -90,7 +90,7 @@ export const projects: Project[] = [
     ],
     image: "https://picsum.photos/seed/aiprompt/500/300",
     video_snippet_url: placeholderVideo,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Abdulazeez20012/PromptVerse",
     live_demo_link: "#",
   },
 ];
