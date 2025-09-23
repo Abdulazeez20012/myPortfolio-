@@ -1,5 +1,4 @@
-# Run and deploy your AI Studio app
-
+my 3d portfolio
 This contains everything you need to run your app locally.
 
 ## Run Locally
